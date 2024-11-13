@@ -1,0 +1,28 @@
+🎮 README - Projeto História de League of Legends 🌍
+📜 Descrição do Projeto
+Este projeto foi desenvolvido para a disciplina de Programação Orientada a Objetos (POO) no curso de Engenharia de Software. O tema central é a história de League of Legends (LoL), um jogo multiplayer de batalha em arena desenvolvido pela Riot Games. O objetivo deste projeto é explorar a narrativa rica de LoL, abordando as regiões de Runeterra, seus principais conflitos, campeões, suas lores, habilidades e classes.
+
+O sistema foi implementado em Java, utilizando os conceitos de POO para representar de forma estruturada as diversas partes do universo de LoL.
+
+⚙️ Funcionalidades
+🌍 Regiões: Representação das diferentes regiões de Runeterra, como Demacia, Noxus, Ionia, Freljord, entre outras.
+⚔️ Conflitos: Relacionamento entre as regiões, incluindo suas rivalidades e alianças históricas.
+🦸‍♂️ Campeões: Modelagem dos campeões do jogo, com suas habilidades, classes e lores.
+💥 Habilidades e Classes: Cada campeão possui habilidades específicas e é associado a uma ou mais classes (ex: Lutador, Mago, Atirador).
+🏗️ Estrutura do Projeto
+O projeto é composto pelas seguintes classes principais:
+
+Regiao: Define as regiões de Runeterra e suas características.
+Campeao: Representa os campeões do jogo, contendo atributos como nome, classe, habilidades e lore.
+Conflito: Define as rivalidades e guerras históricas entre as regiões e suas implicações.
+Habilidade: Modela as habilidades dos campeões, com efeitos e descrições detalhadas.
+
+🧑‍💻 Tecnologias Utilizadas
+💻 Linguagem de Programação: Java
+🔄 Paradigma: Programação Orientada a Objetos (POO)
+🧑‍🤝‍🧑 Autores
+[Nome do Autor 1]
+[Nome do Autor 2]
+[Nome do Autor 3]
+📜 Licença
+Este projeto é de uso acadêmico e está licenciado sob a licença [inserir tipo de licença, se aplicável].
