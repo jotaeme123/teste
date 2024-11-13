@@ -63,7 +63,9 @@ Por meio deste projeto, queremos que os fãs de **League of Legends** mergulhem 
 
 ## 📢 Fale Conosco  
 **Autor**: João Marcelo Silvestri e Fernando Chociai
-**E-mail**: joao.marceloo863@gmail.com /
+
+**E-mail**: joao.marceloo863@gmail.com / ferfirct@outlook.com
+
 **Instagram**: @jm.silvestri
 
 🌟 "The things I've seen in the dark corners of Runeterra are better left unseen." - Ryze. 🌍
