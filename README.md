@@ -28,28 +28,8 @@ Descubra os campeões, suas habilidades, classes e histórias. Cada campeão pos
 
 ---
 
-## 🌱 Roadmap
-
-**Fase 1: Lançamento Inicial**  
-Objetivo: Lançar uma versão beta com as principais regiões e campeões.  
-Meta: Coletar feedback e melhorar a plataforma.
-
-**Fase 2: Expansão das Loress**  
-Objetivo: Adicionar mais campeões e expandir as lores, incluindo as histórias detalhadas de cada facção.  
-Meta: Criar uma base mais rica de conteúdo sobre campeões e suas habilidades.
-
-**Fase 3: Histórias Interativas**  
-Objetivo: Adicionar recursos de narrativa interativa, permitindo que os usuários joguem através dos eventos históricos de LoL.  
-Meta: Criar uma forma envolvente de aprender sobre a história do jogo.
-
-**Fase 4: Colaboração com a Comunidade**  
-Objetivo: Estabelecer parcerias com jogadores, streamers e fãs para enriquecer a plataforma com conteúdo colaborativo.  
-Meta: Expandir a base de dados e promover maior interação da comunidade.
-
----
-
 ## 📄 Licença  
-Este projeto é licenciado sob a **licença MIT**. Consulte o arquivo LICENSE para mais detalhes.
+Este projeto é de uso exclusivamente acadêmico para a disciplina de POO - 3 período.
 
 ---
 
